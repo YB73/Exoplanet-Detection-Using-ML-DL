@@ -8,3 +8,7 @@ A CNN model is used for binary classification.
 
 ### Dataset Used
 The dataset has been taken from <a href="https://www.kaggle.com/datasets/keplersmachines/kepler-labelled-time-series-data">Kaggle</a>
+
+### Models' results
+XGB and Random Forest showed an accuracy of 99.8%, while CNN showed 98.4% and Decision Trees showed 95% accuracy.
+Future work would include applying LSTM as dataset is a time-series data and working on CNN model.
